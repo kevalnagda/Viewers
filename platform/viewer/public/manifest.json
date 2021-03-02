@@ -1,7 +1,7 @@
 {
-  "name": "OHIF Viewer",
-  "short_name": "Viewer",
-  "description": "OHIF Viewer",
+  "name": "Qure Viewer",
+  "short_name": "qViewer",
+  "description": "Qure Viewer",
   "dir": "auto",
   "lang": "en-US",
   "orientation": "any",
